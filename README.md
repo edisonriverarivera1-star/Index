@@ -1,0 +1,2 @@
+# Index
+REGRESIÓN LINEAL SIMPLE
